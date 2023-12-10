@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/scenes/demo_Island.unity
     guid: b3bf1324da98a41e796a5881dd3812eb
   - enabled: 1
@@ -21,4 +21,6 @@ EditorBuildSettings:
     com.unity.addressableassets: {fileID: 11400000, guid: 3f119a19757f84dac85ee298b9dd65d3,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f381a5b9368fad045be9763348808172,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9612d569f4d0d0a4189f9d923ab2182f,
       type: 2}
